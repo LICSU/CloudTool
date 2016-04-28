@@ -1,0 +1,4 @@
+C:\Users\Jesus\Desktop\pendientes\CloudTool\CloudTool\HumanVolumeCalculator\bin\x64\Debug\HumanVolumeCalculator.exe.config
+C:\Users\Jesus\Desktop\pendientes\CloudTool\CloudTool\HumanVolumeCalculator\obj\x64\Debug\HumanVolumeCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Desktop\pendientes\CloudTool\CloudTool\HumanVolumeCalculator\obj\x64\Debug\App.g.cs
+C:\Users\Jesus\Desktop\pendientes\CloudTool\CloudTool\HumanVolumeCalculator\obj\x64\Debug\HumanVolumeCalculator_MarkupCompile.cache
