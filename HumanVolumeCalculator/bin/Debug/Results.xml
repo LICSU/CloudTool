@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <ResultMedida xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Altura>1.666512</Altura>
-  <PerimetroCabeza>27.5895319448312</PerimetroCabeza>
-  <PerimetroCuello>74.3164347023561</PerimetroCuello>
-  <PerimetroPecho>28.0075106322337</PerimetroPecho>
-  <PerimetroCintura>23.3752183852403</PerimetroCintura>
-  <PerimetroCadera>33.2554263115626</PerimetroCadera>
-  <IndiceCaderaCintura>1.42267874308122</IndiceCaderaCintura>
+  <Altura>0</Altura>
+  <PerimetroCabeza>0</PerimetroCabeza>
+  <PerimetroCuello>0</PerimetroCuello>
+  <PerimetroPecho>0</PerimetroPecho>
+  <PerimetroCintura>0</PerimetroCintura>
+  <PerimetroCadera>0</PerimetroCadera>
+  <IndiceCaderaCintura>0</IndiceCaderaCintura>
 </ResultMedida>

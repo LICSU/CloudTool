@@ -9,7 +9,7 @@ namespace HumanVolumeCalculator
 {
     public struct PuntoAngulo
     {
-        SkeletonPoint point;
-        double angulo;
+        //SkeletonPoint point;
+        //double angulo;
     }
 }

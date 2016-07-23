@@ -52,17 +52,10 @@
         <Label x:Name="cinturaLabel" Content="0.00 cm" Grid.Column="3" HorizontalAlignment="Left" Margin="94,70,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.829,-10" Height="26"/>
         <Label x:Name="label1" Content="Cadera :" Grid.Column="3" HorizontalAlignment="Left" Margin="27,98,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.513,-4.192"/>
         <Label x:Name="caderaLabel" Content="0.00 cm" Grid.Column="3" HorizontalAlignment="Left" Margin="95,98,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.092,-6.769"/>
-        <Label x:Name="labelStatus" Content="Cargando" HorizontalAlignment="Left" Margin="15,3,0,0" VerticalAlignment="Top" Width="142" RenderTransformOrigin="0.494,0.212" FontFamily="{DynamicResource {x:Static SystemFonts.StatusFontFamilyKey}}" FontSize="21.333" Height="39" Grid.Column="3">
-            <Label.RenderTransform>
-                <TransformGroup>
-                    <ScaleTransform/>
-                    <SkewTransform AngleY="0.398"/>
-                    <RotateTransform/>
-                    <TranslateTransform Y="0.487"/>
-                </TransformGroup>
-            </Label.RenderTransform>
+        <Label x:Name="labelStatus" Content="Cargando nube" HorizontalAlignment="Left" Margin="15,3,0,0" VerticalAlignment="Top" Width="200" RenderTransformOrigin="0.494,0.212" FontFamily="{DynamicResource {x:Static SystemFonts.StatusFontFamilyKey}}" FontSize="21.333" Height="39" Grid.Column="3">
+
         </Label>
-        <Label x:Name="labelRecurso" Content="Label" HorizontalAlignment="Left" Margin="116,4,0,0" VerticalAlignment="Top" Width="100" FontSize="21.333" Grid.Column="3"/>
+
         <Label x:Name="labelAltura" Content="Altura :" Grid.Column="3" HorizontalAlignment="Left" Margin="32,200,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.776,-4.981"/>
         <Label x:Name="labelAlturaResult" Content="0.00 cm" Grid.Column="3" HorizontalAlignment="Left" Margin="95,201,0,0" VerticalAlignment="Top" RenderTransformOrigin="2.049,-3.096"/>
         <Label x:Name="labelPecho" Content="Pecho :" Grid.Column="3" HorizontalAlignment="Left" Margin="29,174,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.013,-3.115"/>
